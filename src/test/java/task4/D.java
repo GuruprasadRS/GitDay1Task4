@@ -13,6 +13,7 @@ public class D {
 		System.out.println("Guru");
 		System.out.println("prasad");
 		System.out.println("pavithra");
+		System.out.println("guru prasad");
 		
 
 	}

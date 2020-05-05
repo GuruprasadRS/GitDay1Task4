@@ -10,5 +10,6 @@ public class D {
 		driver.get("https://www.instagram.com/");
 		driver.manage().window().maximize();
 		driver.quit();
+		System.out.println("Guru");
 	}
 }
